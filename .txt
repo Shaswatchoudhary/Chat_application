@@ -1,7 +1,6 @@
 *******Message Model*******
-
-Ankit(sender)----> "Hello"
-Raj(receiver) -->"Hii"
+Shaswat(sender)----> "Hello"
+smile(receiver) -->"Hii"
 
 
 _id =jksdjkn (mongoDB)
