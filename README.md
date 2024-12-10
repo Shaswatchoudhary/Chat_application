@@ -20,8 +20,8 @@ This chat application provides seamless communication with **real-time messaging
 ## **🖼️ Screenshots**  
 
 <div align="center">  
-<img width="425" alt="Chat Page" src="https://github.com/user-attachments/assets/ed79094c-a5d3-4d01-9d6e-4674bf99e981" style="margin: 10px;"> 
 <img width="452" alt="Login Page" src="https://github.com/user-attachments/assets/cd3d18f8-b0e3-43a6-bd7e-eaacd9a4a76c" style="margin: 10px;">  
+<img width="425" alt="Chat Page" src="https://github.com/user-attachments/assets/ed79094c-a5d3-4d01-9d6e-4674bf99e981" style="margin: 10px;"> 
 <img width="1412" alt="Dashboard" src="https://github.com/user-attachments/assets/a4707299-9dd6-4381-9e7c-c84ddc2c4ddb" style="margin: 10px;">  
 </div>  
 
